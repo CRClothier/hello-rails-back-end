@@ -28,7 +28,7 @@ To run this project you need:
 Clone this repository to your desired folder:
 
 ```
-https://github.com/jfoyarzo/hello-rails-back-end.git
+https://github.com/crclothier/hello-rails-back-end.git
 ```
 
 ```
