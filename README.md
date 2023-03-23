@@ -1,17 +1,75 @@
-# 📖 Hello Rails Backend
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 Hello Rails Backend ](#-hello-rails-backend-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
 **Hello Rails Backend** is a basic Rails API that has an endpoint that returns a random greeting from a previously set-up database table in JSON format. You can find the front end built with React [here](https://github.com/crclothier/hello-react-front-end).  This has been made as an exercise for Microverse Bootcamp.
 
-### Tech Stack
-- React
-- Redux
-- Ruby on Rails
-- PostgreSQL
+## 🛠 Built With <a name="built-with"></a>
+### Tech Stack <a name="tech-stack"></a>
 
-## Live Demo
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://redux-toolkit.js.org/">Redux Toolkit</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://guides.rubyonrails.org/index.html">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **Returns a random greeting** from the API endpoint in JSON format.
+- **Ruby on Rails** API implementation.
+- **PostgreSQL** database used.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
 
 This is simply an exercise and it will not be deployed.
 
-## Getting Started
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
 
@@ -77,28 +135,58 @@ To reach the API endpoint go to http://localhost:3000/api/greeting
 N/A
 
 ### Deployment
+
 N/A
 
-## Authors
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Chris Clothier**
 
 - GitHub: [@CRClothier](https://github.com/crclothier)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/crclothier)
 
-## Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+This is simply an exercise and future features will not be added.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/crclothier/hello-rails-back-end/issues/).
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please give it a star ⭐
 
-## Acknowledgments
-Microverse Bootcamp
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## License
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+- Microverse Bootcamp
+- Your name will be here if you contribute 😎
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
