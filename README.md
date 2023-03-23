@@ -155,7 +155,7 @@ N/A
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-This is simply an exercise and future features will not be added.
+*User suggested greetings* - create API endpoint for user suggested greetings to be submitted and added to the greetings list.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
