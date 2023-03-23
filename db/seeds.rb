@@ -3,23 +3,23 @@ Greeting.destroy_all
 Greeting.create!([
                    {
                      language: 'English',
+                     text: 'Good day!'
+                   },
+                   {
+                     language: 'English',
                      text: 'Hello!'
+                   },
+                   {
+                     language: 'English',
+                     text: 'How do you do!'
                    },
                    {
                      language: 'Spanish',
                      text: 'Hola!'
                    },
                    {
-                     language: 'French',
-                     text: 'Bonjour!'
-                   },
-                   {
-                     language: 'Italian',
-                     text: 'Ciao!'
-                   },
-                   {
-                     language: 'German',
-                     text: 'Hallo!'
+                     language: 'Spanish',
+                     text: 'Que tal!'
                    }
                  ])
 
