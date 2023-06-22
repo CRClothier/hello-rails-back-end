@@ -181,7 +181,7 @@ If you like this project please give it a star ⭐
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 - Microverse Bootcamp
-- Your name will be here if you contribute 😎
+- Your name will go here if you contribute 😎
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
